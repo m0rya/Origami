@@ -1,0 +1,43 @@
+<svg id="layer name" data-name="data name" xmlns="http://www.w3.org/2000/svg" viewBox=" 0 0 480 600">
+<defs>
+	<style>.cls-1{fill:none;stroke:#000000;}.cls-2{fill:none;stroke:#FF0000;}</style>
+</defs><title>test</title>
+	<line class="cls-1" x1="0" y1="0" x2="0" y2="600"/>
+	<line class="cls-1" x1="60" y1="0" x2="60" y2="600"/>
+	<line class="cls-1" x1="120" y1="0" x2="120" y2="600"/>
+	<line class="cls-1" x1="180" y1="0" x2="180" y2="600"/>
+	<line class="cls-1" x1="240" y1="0" x2="240" y2="600"/>
+	<line class="cls-1" x1="300" y1="0" x2="300" y2="600"/>
+	<line class="cls-1" x1="360" y1="0" x2="360" y2="600"/>
+	<line class="cls-1" x1="420" y1="0" x2="420" y2="600"/>
+	<line class="cls-1" x1="480" y1="0" x2="480" y2="600"/>
+	<line class="cls-2" x1="60" y1="0" x2="0" y2="100"/>
+	<line class="cls-2" x1="420" y1="0" x2="480" y2="100"/>
+	<line class="cls-2" x1="120" y1="0" x2="0" y2="200"/>
+	<line class="cls-2" x1="360" y1="0" x2="480" y2="200"/>
+	<line class="cls-2" x1="180" y1="0" x2="0" y2="300"/>
+	<line class="cls-2" x1="300" y1="0" x2="480" y2="300"/>
+	<line class="cls-2" x1="240" y1="0" x2="0" y2="400"/>
+	<line class="cls-2" x1="240" y1="0" x2="480" y2="400"/>
+	<line class="cls-2" x1="300" y1="0" x2="0" y2="500"/>
+	<line class="cls-2" x1="180" y1="0" x2="480" y2="500"/>
+	<line class="cls-2" x1="360" y1="0" x2="0" y2="600"/>
+	<line class="cls-2" x1="120" y1="0" x2="480" y2="600"/>
+	<line class="cls-2" x1="420" y1="0" x2="60" y2="600"/>
+	<line class="cls-2" x1="60" y1="0" x2="420" y2="600"/>
+	<line class="cls-2" x1="480" y1="0" x2="120" y2="600"/>
+	<line class="cls-2" x1="0" y1="0" x2="360" y2="600"/>
+	<line class="cls-2" x1="480" y1="100" x2="180" y2="600"/>
+	<line class="cls-2" x1="0" y1="100" x2="300" y2="600"/>
+	<line class="cls-2" x1="480" y1="200" x2="240" y2="600"/>
+	<line class="cls-2" x1="0" y1="200" x2="240" y2="600"/>
+	<line class="cls-2" x1="480" y1="300" x2="300" y2="600"/>
+	<line class="cls-2" x1="0" y1="300" x2="180" y2="600"/>
+	<line class="cls-2" x1="480" y1="400" x2="360" y2="600"/>
+	<line class="cls-2" x1="0" y1="400" x2="120" y2="600"/>
+	<line class="cls-2" x1="480" y1="500" x2="420" y2="600"/>
+	<line class="cls-2" x1="0" y1="500" x2="60" y2="600"/>
+	<line class="cls-2" x1="480" y1="600" x2="480" y2="600"/>
+	<line class="cls-2" x1="0" y1="600" x2="0" y2="600"/>
+
+</svg>
